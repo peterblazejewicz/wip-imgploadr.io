@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/peterblazejewicz/wip-imgploadr.io/issues"
   },
-  "homepage": "https://github.com/peterblazejewicz/wip-imgploadr.io"
+  "homepage": "https://github.com/peterblazejewicz/wip-imgploadr.io",
+  "dependencies": {
+    "express": "^3.5.3"
+  }
 }
